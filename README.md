@@ -1,10 +1,11 @@
-NPC Social Simulation (Mobil Prototype)
+NPC Social Simulation- Living World (Mobil Prototype)
 
 ** A mobile-oriented simulation game prototype developed in Unity 2D using C# for mobile platforms, featuring NPCs that interact dynamically and relationships evolve over time.
  This project focuses on system design, real-time feedback, and player-driven progression mechanics.
  
-**Demo
- -instagram count ekle
+* Demo
+  *https://www.instagram.com/reel/DXMp54sDIK5/?igsh=MzdleGJpOGczMmJm
+ 
  
 * Features
   * Dynamic NPC interaction system
