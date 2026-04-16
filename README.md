@@ -1,8 +1,10 @@
 NPC Social Simulation (Mobil Prototype)
  A mobile-oriented simulation game prototype developed in Unity 2D using C# for mobile platforms, featuring NPCs that interact dynamically and relationships evolve over time.
  This project focuses on system design, real-time feedback, and player-driven progression mechanics.
+ 
 **Demo
  instagram count ekle
+ 
 **Features
   * Dynamic NPC interaction system
   * Realtionship system with evolving trust values
@@ -12,6 +14,7 @@ NPC Social Simulation (Mobil Prototype)
   * Coin-based reward loop
   * Save/Load system using JSON serialization
   * Responsive UI feedback (button press)
+  * 
 **Gameplay Overview
  * NPCs interact autonomously over time
  * Each interaction affects relationship values
