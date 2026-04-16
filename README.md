@@ -1,4 +1,5 @@
 NPC Social Simulation (Mobil Prototype)
+
 ** A mobile-oriented simulation game prototype developed in Unity 2D using C# for mobile platforms, featuring NPCs that interact dynamically and relationships evolve over time.
  This project focuses on system design, real-time feedback, and player-driven progression mechanics.
  
@@ -43,10 +44,10 @@ NPC Social Simulation (Mobil Prototype)
   * Simple but scalable game loop
   * Focus on redability and modular system design
    
-* Kurulum
-  * Bu depoyu bilgisayarınıza klonlayın.
-  * UnityHub üzerinden projeyi açın
-  * Scenes/Main üzerinden "Play" butonuna basın
+* Setup
+  * Clone this repostory to your pc.
+  * Open the project in UnityHub.
+  * Click the "Play" button in Scenes/Main.
    
 * Notes
   * This project was developed as a portfolio piece to demonstrate:
