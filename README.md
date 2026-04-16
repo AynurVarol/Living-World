@@ -4,7 +4,7 @@ NPC Social Simulation- Living World (Mobil Prototype)
  This project focuses on system design, real-time feedback, and player-driven progression mechanics.
  
 * Demo
-  *https://www.instagram.com/reel/DXMp54sDIK5/?igsh=MzdleGJpOGczMmJm
+  * https://www.instagram.com/reel/DXMp54sDIK5/?igsh=MzdleGJpOGczMmJm
  
  
 * Features
