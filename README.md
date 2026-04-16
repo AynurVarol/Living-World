@@ -3,9 +3,9 @@ NPC Social Simulation (Mobil Prototype)
  This project focuses on system design, real-time feedback, and player-driven progression mechanics.
  
 **Demo
- instagram count ekle
+ -instagram count ekle
  
-**Features
+** Features
   * Dynamic NPC interaction system
   * Realtionship system with evolving trust values
   * Real-time relationship visulation(color and thickness bassed)
@@ -14,36 +14,41 @@ NPC Social Simulation (Mobil Prototype)
   * Coin-based reward loop
   * Save/Load system using JSON serialization
   * Responsive UI feedback (button press)
-  * 
-**Gameplay Overview
+    
+** Gameplay Overview
  * NPCs interact autonomously over time
  * Each interaction affects relationship values
  * Player can observe and trigger interactions
  * Coins are earned through interactions
  * Coins can be spent on upgrades to speed up the simulation
-**Tech Stack
+   
+** Tech Stack
  * Unity(C#)
  * Object-Oriented Programming
  * Event-driven system design
  * JSON serialization(PlayerPrefs)
  * Real-time UI system
-**System Architecture
+   
+** System Architecture
  * Gam Manager- Core game flow and data
  * IdleSystem- Handles automatic NPC interactions
  * InteractionSystem- Processes relationship changes
  * RelationshipVisualizer- Draws connections dynamically
  * UIManager- Manages player interface and feedback
  * SaveManager- Handles save/load functionality
-**Design Goals
+   
+** Design Goals
  * Mobile friendly UI and interaction flow
  * Clear visual feedback for player actions
  * Simple but scalable game loop
  * Focus on redability and modular system design
-**Kurulum
+   
+** Kurulum
  * Bu depoyu bilgisayarınıza klonlayın.
  * UnityHub üzerinden projeyi açın
  * Scenes/Main üzerinden "Play" butonuna basın
-**Notes
+   
+** Notes
   This project was developed as a portfolio piece to demonstrate:
   * System design skills
   * Gameplay loop understanding
